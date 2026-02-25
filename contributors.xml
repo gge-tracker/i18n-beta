@@ -53,6 +53,10 @@
     <server>HANT1</server>
   </contributor>
   <contributor>
+    <name>Ritwick Rathore</name>
+    <server>IN1</server>
+  </contributor>
+  <contributor>
     <name>Rubriq</name>
     <server>FR1</server>
   </contributor>
@@ -91,5 +95,9 @@
   <contributor>
     <name>Xenon</name>
     <server>INT3</server>
+  </contributor>
+  <contributor>
+    <name>ZaPor</name>
+    <server>INT2</server>
   </contributor>
 </contributors>
