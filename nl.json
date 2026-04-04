@@ -535,6 +535,14 @@
   "mois": "maand",
   "moiss": "maanden",
   "ms": "ms",
+  "outer": {
+    "dialog_tempServer_scoring_desc_collector": "Verzamel dagelijkse klassementspunten door aanvallen op het hoofdkasteel van je vijanden in het Grote Rijk in te zetten en door hun erfgoed te plunderen. Je kunt de hoeveelheid van het erfgoed die je claimt na elke aanval verhogen door speciale boosters te gebruiken, die je kunt kopen met robijnen in de eventwinkel.",
+    "dialog_tempServer_scoring_desc_might": "Verzamel dagelijkse klassementspunten door machtige gebouwen en decoraties te bouwen in je nieuwe eventkasteel en schatten van zeldzame waarde te verdienen voor je mensen. De machtpunten van gebouwen in je kasteel die branden, worden niet in overweging genomen wanneer de dagelijkse punten worden berekend, dus zorg dat je verdediging op orde is!",
+    "dialog_tempServer_scoring_desc_rankSwap": "Verzamel dagelijkse klassementspunten door aanvallen uit te voeren op het hoofdkasteel van je vijanden in het Grote Rijk en door van plek met ze te wisselen. Spelers die in aanmerking komen, worden gemarkeerd in de dagelijkse klassementslijst.",
+    "dialog_tempServer_scoring_header_collector": "Erfgoedjager",
+    "dialog_tempServer_scoring_header_might": "Machtmeesters",
+    "dialog_tempServer_scoring_header_rankSwap": "Rappe ruil"
+  },
   "points": "punten",
   "rank_over_time": "Rang in de tijd",
   "restants": "resterend",

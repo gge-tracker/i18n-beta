@@ -535,6 +535,14 @@
   "mois": "mois",
   "moiss": "mois",
   "ms": "ms",
+  "outer": {
+    "dialog_tempServer_scoring_desc_collector": "Obtenez des points de classement quotidien en lançant des attaques sur le château principal de vos ennemis du Grand Empire afin de vous emparer de leur patrimoine. Il est possible d'augmenter la quantité pouvant être récupérée lors de chaque attaque à l'aide d'accélérateurs de patrimoine spéciaux qui s'achètent avec des rubis dans la boutique d'événements.",
+    "dialog_tempServer_scoring_desc_might": "Obtenez des points de classement quotidien en construisant de puissants bâtiments et des décorations dans votre nouveau château d'événement et obtenez des trésors rares en récompense. Les points de puissance des bâtiments en train de brûler ne sont pas comptabilisés lors du décompte des points quotidiens, alors maintenez une défense de fer !",
+    "dialog_tempServer_scoring_desc_rankSwap": "Pour obtenir des points de classement quotidien, attaquez le château principal de vos ennemis dans le Grand Empire et changez de place au classement avec eux. Les joueurs éligibles sont signalés dans la liste de classement quotidien.",
+    "dialog_tempServer_scoring_header_collector": "Chasseur de patrimoine",
+    "dialog_tempServer_scoring_header_might": "Maîtres de la puissance",
+    "dialog_tempServer_scoring_header_rankSwap": "Échange express"
+  },
   "points": "points",
   "rank_over_time": "Rang au fil du temps",
   "restants": "restants",

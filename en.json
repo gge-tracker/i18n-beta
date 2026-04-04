@@ -535,6 +535,14 @@
   "mois": "month",
   "moiss": "months",
   "ms": "ms",
+  "outer": {
+    "dialog_tempServer_scoring_desc_collector": "Collect daily ranking points by launching attacks on the main castle of your enemies in the Great Empire and looting their heritage. The amount of heritage that can be claimed during each attack can be increased by using special heritage boosters, which can be purchased with rubies from the event shop.",
+    "dialog_tempServer_scoring_desc_might": "Collect daily ranking points by constructing mighty buildings and decorations in your new event castle and earn treasures of rare value for your people. The might points of any buildings in your castle that are burning will not be considered when the daily points are calculated, so keep those defenses up!",
+    "dialog_tempServer_scoring_desc_rankSwap": "Collect daily ranking points by launching attacks on the main castle of your enemies in the Great Empire and swap ranking positions with them. Eligible players are marked in the daily ranking list.",
+    "dialog_tempServer_scoring_header_collector": "Heritage hunter",
+    "dialog_tempServer_scoring_header_might": "Masters of might",
+    "dialog_tempServer_scoring_header_rankSwap": "Snappy swap"
+  },
   "points": "points",
   "rank_over_time": "Rank over time",
   "restants": "remaining",

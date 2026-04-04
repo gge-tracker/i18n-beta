@@ -535,6 +535,14 @@
   "mois": "miesiąc",
   "moiss": "miesięcy",
   "ms": "ms",
+  "outer": {
+    "dialog_tempServer_scoring_desc_collector": "Gromadź codziennie punkty rankingowe za ataki na główne zamki twoich wrogów na terenie Wielkiego Cesarstwa i rabowanie ich dziedzictwa. Ilość dziedzictwa łupionego w ramach ataków może zostać zwiększona za pomocą specjalnych boosterów dziedzictwa, które dostępne są w sklepie wydarzenia w zamian za rubiny.",
+    "dialog_tempServer_scoring_desc_might": "Gromadź punkty rankingowe za wznoszenie potężnych budynków i konstruowanie pięknych dekoracji w twoim nowym zamku wydarzenia i sięgaj po cenne skarby dla twego ludu. Punkty mocy powiązane z płonącymi budynkami twojego zamku nie będą brane pod uwagę przy obliczaniu codziennych punktów, toteż zawsze dbaj o swoje umocnienia!",
+    "dialog_tempServer_scoring_desc_rankSwap": "Zbieraj codzienne punkty rankingowe, wysyłając ataki na główne zamki swoich rywali w Wielkim Cesarstwie i zamieniaj się z nimi pozycjami w klasyfikacji. Dostępni gracze są stosownie oznaczeni na liście klasyfikacji dziennej.",
+    "dialog_tempServer_scoring_header_collector": "Łowca dziedzictwa",
+    "dialog_tempServer_scoring_header_might": "Mistrzowie mocy",
+    "dialog_tempServer_scoring_header_rankSwap": "Szybka zamiana"
+  },
   "points": "punkty",
   "rank_over_time": "Ranga w czasie",
   "restants": "pozostałe",

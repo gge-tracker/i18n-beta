@@ -535,6 +535,14 @@
   "mois": "lună",
   "moiss": "luni",
   "ms": "ms",
+  "outer": {
+    "dialog_tempServer_scoring_desc_collector": "Colectează puncte de clasament zilnice lansând atacuri asupra castelului principal al inamicilor tăi din Marele Imperiu și prădându-le moștenirea. Cantitatea de moștenire care poate fi revendicată în timpul fiecărui atac poate fi crescută folosind boostere speciale de moștenire care pot fi achiziționate cu rubine de la magazinul evenimentului.",
+    "dialog_tempServer_scoring_desc_might": "Colectează puncte de clasament zilnice construind clădiri mărețe și decorațiuni în castelul noului eveniment și câștigă comori de o rară valoare pentru oamenii tăi. Punctele de putere ale oricăror clădiri aflate în flăcări de la castelul tău nu vor fi luate în considerare atunci când punctele zilnice sunt calculate, deci întărește-ți defensiva!",
+    "dialog_tempServer_scoring_desc_rankSwap": "Colectează zilnic puncte de clasament lansând atacuri asupra castelului principal al inamicilor tăi din Marele Imperiu și fă schimb de poziții în clasament cu aceștia. Jucătorii eligibili sunt marcați în lista clasamentului zilnic.",
+    "dialog_tempServer_scoring_header_collector": "Vânător de moșteniri",
+    "dialog_tempServer_scoring_header_might": "Maeștri ai puterii",
+    "dialog_tempServer_scoring_header_rankSwap": "Schimbare rapidă"
+  },
   "points": "puncte",
   "rank_over_time": "Clasament peste timp",
   "restants": "rămase",

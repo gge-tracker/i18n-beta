@@ -535,6 +535,14 @@
   "mois": "Monat",
   "moiss": "Monate",
   "ms": "ms",
+  "outer": {
+    "dialog_tempServer_scoring_desc_collector": "Sammelt täglich Rangpunkte, indem Ihr Angriffe auf die Hauptburg Eurer Feinde im Großen Imperium startet und ihr Vermächtnis raubt. Die Menge an Diebesgut, die bei jedem Angriff erbeutet werden kann, kann mit besonderen Vermächtnis-Boostern erhöht werden, die im Event-Shop mit Rubinen gekauft werden können.",
+    "dialog_tempServer_scoring_desc_might": "Sammelt täglich Rangpunkte, indem Ihr mächtige Gebäude und Dekorationen in Eurer neuen Event-Burg errichtet, und verdient seltene Schätze für Euer Volk. Die Machtpunkte von Gebäuden in Eurer Burg, die brennen, werden nicht berücksichtigt, wenn die täglichen Punkte berechnet werden, also achtet auf eine starke Verteidigung!",
+    "dialog_tempServer_scoring_desc_rankSwap": "Sammelt tägliche Rangpunkte, indem Ihr Angriffe auf die Hauptburg Eurer Feinde im Großen Imperium startet, und tauscht die Ränge mit ihnen. Spieler, die in Frage kommen, werden in der täglichen Rangliste gekennzeichnet.",
+    "dialog_tempServer_scoring_header_collector": "Vermächtnisräuber",
+    "dialog_tempServer_scoring_header_might": "Meister der Macht",
+    "dialog_tempServer_scoring_header_rankSwap": "Flotter Tausch"
+  },
   "points": "Punkte",
   "rank_over_time": "Rang über Zeit",
   "restants": "verbleibend",
