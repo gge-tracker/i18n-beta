@@ -274,6 +274,7 @@
   "Nombre de changements de pseudonyme": "Nombre de changements de pseudonyme : {{count}}",
   "Nombre de chateaux": "Nombre de châteaux",
   "Nombre de joueurs": "Nombre de joueurs",
+  "Nombre de joueurs actifs": "Nombre de joueurs actifs",
   "Nombre de joueurs ayant changé d'alliance": "Nombre de joueurs ayant changé d'alliance",
   "Nombre de joueurs ayant changé de pseudonyme": "Nombre de joueurs ayant changé de pseudonyme",
   "Nombre de joueurs classés": "Nombre de joueurs classés",
@@ -681,6 +682,5 @@
   "Événement courant": "Événement courant",
   "Événement du 0 au 0": "Événement du {{start}} au {{end}}",
   "Événement en cours": "Événement en cours",
-  "Événement indisponible": "Événement indisponible",
-  "Événements": "Événements"
+  "Événement indisponible": "Événement indisponible"
 }
