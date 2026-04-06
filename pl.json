@@ -553,6 +553,7 @@
   "secondes_s": "s",
   "server-not-available": "Przepraszam, ta funkcja nie jest dostępna dla serwera {{server}}. Aby uzyskać więcej informacji, odwiedź Discord.",
   "server-request-about": "* Witryna jest obecnie w fazie rozwoju. Nie wszystkie serwery Goodgame Empire są jeszcze dostępne. Jeśli chcesz dodać serwer, nie wahaj się poprosić o niego w zakładce „O nas”",
+  "temp_server_name_tooltip": "Zewnętrzne Krainy",
   "titles": {
     "playerTitle_0": "Rycerz",
     "playerTitle_1": "Kawaler",

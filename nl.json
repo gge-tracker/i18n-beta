@@ -553,6 +553,7 @@
   "secondes_s": "s",
   "server-not-available": "Sorry, deze functie is niet beschikbaar voor de server {{server}}. Voor meer informatie, ga naar de Discord.",
   "server-request-about": "* Deze website is op dit moment nog in ontwikkelingsfase. Niet alle GoodGame Empire servers zijn nog beschikbaar.",
+  "temp_server_name_tooltip": "Buitenrijken",
   "titles": {
     "playerTitle_0": "Ridder",
     "playerTitle_1": "Rijksridder",

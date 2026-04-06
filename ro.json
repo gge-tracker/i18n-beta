@@ -553,6 +553,7 @@
   "secondes_s": "s",
   "server-not-available": "Ne pare rău, această funcționalitate nu este disponibilă pentru serverul {{server}}. Pentru mai multe informații, accesează Discord.",
   "server-request-about": "* Site-ul este în prezent în fază de dezvoltare. Nu toate serverele goodgame empire sunt disponibile încă. Dacă vrei să adaugi un server, nu ezita să îl soliciti din tab-ul 'Despre'",
+  "temp_server_name_tooltip": "Ținuturile Exterioare",
   "titles": {
     "playerTitle_0": "Războinic",
     "playerTitle_1": "Cavaler",

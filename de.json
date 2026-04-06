@@ -553,6 +553,7 @@
   "secondes_s": "s",
   "server-not-available": "Entschuldigung, diese Funktion ist für den Server {{server}} nicht verfügbar. Für weitere Informationen besuche bitte den Discord.",
   "server-request-about": "* Die Seite befindet sich in Entwicklung. Noch sind nicht alle GGE-Server verfügbar. Möchtest du einen Server hinzufügen, schreib uns im Tab „Über“.",
+  "temp_server_name_tooltip": "Außenwelten",
   "titles": {
     "playerTitle_0": "Ritter",
     "playerTitle_1": "Ordensritter",

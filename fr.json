@@ -553,6 +553,7 @@
   "secondes_s": "s",
   "server-not-available": "Désolé, cette fonctionnalité n'est pas disponible pour le serveur {{server}}. Pour plus d'informations, rendez-vous sur le Discord.",
   "server-request-about": "* Le site est actuellement en phase de développement. Tous les serveurs ne sont pas encore disponibles. Si vous souhaitez ajouter un serveur, n'hésitez pas à demander l'ajout de celui-ci depuis l'onglet 'À propos'",
+  "temp_server_name_tooltip": "Royaumes extérieurs",
   "titles": {
     "playerTitle_0": "Chevalier",
     "playerTitle_1": "Banneret",

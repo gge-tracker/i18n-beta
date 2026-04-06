@@ -553,6 +553,7 @@
   "secondes_s": "s",
   "server-not-available": "Sorry, this feature is not available for the {{server}} server. For more information, please visit the Discord.",
   "server-request-about": "* The site is currently in the development phase. Not all goodgame empire servers are available yet. If you want to add a server, do not hesitate to request it from the 'About' tab",
+  "temp_server_name_tooltip": "Outer Realms",
   "titles": {
     "playerTitle_0": "Knight",
     "playerTitle_1": "Chevalier",
