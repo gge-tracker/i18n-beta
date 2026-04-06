@@ -236,7 +236,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - Germany 1</gge-server-name>
 			<name>E4K_DE1</name>
 		</server>
