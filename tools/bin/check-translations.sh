@@ -1,27 +1,34 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# =============================================================================
+# check-translations.sh - Validate translation files against the reference
+#
+# Reads every *.json file in the project root and verifies that:
+#   1. The file is syntactically valid JSON.
+#   2. Its key structure (all dot-notation paths) matches fr.json exactly.
+#
+# Exit codes:
+#   0   All files are valid.
+#   1   One or more files failed validation.
+#
+# Usage:
+#   bash tools/bin/check-translations.sh
+#   # or via the main entry point:
+#   bash tools/i18n.sh check
+#
+# Requirements: jq
+# =============================================================================
 
 set -e
 
-# This script checks the integrity and validity of translation JSON files
-# in the current directory against a reference file (fr.json)
-# It ensures that all translation files have the same keys as the reference
-# and that they are valid JSON.
-#
-# Before committing changes to translation files, please run this script to verify their correctness
-# Usage: ./check.sh
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-
-cd "$(dirname "$0")" || exit 1
-
-# Load dependencies
-source ./colors.sh
-source ./utils.sh
-
-cd .. || exit 1
+. "$SCRIPT_DIR/../lib/colors.sh"
+. "$SCRIPT_DIR/../lib/helpers.sh"
 
 readonly source_file="fr.json"
+readonly translations_dir="$SCRIPT_DIR/../.."
 
-if [ ! -f "$source_file" ]; then
+if [ ! -f "$translations_dir/$source_file" ]; then
   echo -e "${red_color} Error: The file '$source_file' is missing.${reset_color}"
   exit 1
 fi
@@ -29,7 +36,7 @@ fi
 errors=0
 
 main() {
-  print_header # Display header (in utils.sh)
+  print_header
   cd "$translations_dir" || exit 1
   ref_keys=$(extract_keys "$source_file")
   echo -e " Reference file: $source_file with $(echo "$ref_keys" | wc -l) keys."
