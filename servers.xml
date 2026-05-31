@@ -2,7 +2,7 @@
 	<servers>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Asia</gge-server-name>
 			<name>ASIA</name>
 		</server>
