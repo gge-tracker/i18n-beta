@@ -249,6 +249,12 @@
 		<server>
 			<enabled>true</enabled>
 			<featured>false</featured>
+			<gge-server-name>Empire Four Kingdoms - Netherlands 1</gge-server-name>
+			<name>E4K_NL1</name>
+		</server>
+		<server>
+			<enabled>true</enabled>
+			<featured>false</featured>
 			<gge-server-name>Empire Four Kingdoms - United States 1</gge-server-name>
 			<name>E4K_US1</name>
 		</server>
@@ -272,7 +278,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - United Kingdom 1</gge-server-name>
 			<name>E4K_GB1</name>
 		</server>
