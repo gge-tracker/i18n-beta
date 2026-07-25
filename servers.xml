@@ -1,4 +1,5 @@
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="servers.xsd">
 	<servers>
 		<server>
 			<enabled>true</enabled>
@@ -26,7 +27,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Slovakia</gge-server-name>
 			<name>SK1</name>
 		</server>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<contributors>
+<contributors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="contributors.xsd">
   <contributor>
     <name>0din0</name>
     <server>IT1</server>
@@ -39,6 +40,10 @@
   <contributor>
     <name>Fear</name>
     <server>DE1</server>
+  </contributor>
+  <contributor>
+    <name>Galaxy Leasco</name>
+    <server>SK1</server>
   </contributor>
   <contributor>
     <name>Halt Arratay</name>
