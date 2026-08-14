@@ -255,7 +255,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Empire Four Kingdoms - Nordic 1</gge-server-name>
 			<name>E4K_SKN1</name>
 		</server>
