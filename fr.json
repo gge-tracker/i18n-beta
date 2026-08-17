@@ -104,7 +104,6 @@
   "Bientôt attaquable (< 5min)": "Bientôt attaquable (< 5min.)",
   "Bientôt disponible": "Bientôt disponible...",
   "Bois": "Bois",
-  "Boutique": "Boutique",
   "Brûlable": "Brûlable",
   "Butin": "Butin",
   "Bâtiments": "Bâtiments",
@@ -368,6 +367,7 @@
   "Occupant": "Occupant",
   "Occupée": "Occupée",
   "Octobre": "Octobre",
+  "Offres": "Offres",
   "Offres spéciales": "Offres spéciales",
   "Ordre de la boutique": "Ordre de la boutique",
   "Ordre public": "Ordre public",
@@ -815,6 +815,7 @@
     "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "unités": "unités",
+  "À découvrir": "À découvrir",
   "Écart type des scores (variabilité)": "Écart type des scores (variabilité)",
   "Événement courant": "Événement courant",
   "Événement de fidélité": "Événement de fidélité",

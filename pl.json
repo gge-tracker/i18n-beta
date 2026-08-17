@@ -104,7 +104,6 @@
   "Bientôt attaquable (< 5min)": "Wkrótce dostępny do zaatakowania (< 5min.)",
   "Bientôt disponible": "Wkrótce dostępne ...",
   "Bois": "Drewno",
-  "Boutique": "Do sklepu",
   "Brûlable": "Palny",
   "Butin": "Łup",
   "Bâtiments": "Budynki",
@@ -368,6 +367,7 @@
   "Occupant": "Okupant",
   "Occupée": "Zajęta",
   "Octobre": "Październik",
+  "Offres": "Oferty",
   "Offres spéciales": "Oferty specjalne",
   "Ordre de la boutique": "Kolejność sklepu",
   "Ordre public": "Porządek publiczny",
@@ -815,6 +815,7 @@
     "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "unités": "jednostek",
+  "À découvrir": "Warto zobaczyć",
   "Écart type des scores (variabilité)": "Odchylenie standardowe wyników (zmienność)",
   "Événement courant": "Bieżące wydarzenie",
   "Événement de fidélité": "Wydarzenie lojalnościowe",

@@ -104,7 +104,6 @@
   "Bientôt attaquable (< 5min)": "Kan binnenkort aangevallen worden (< 5min.)",
   "Bientôt disponible": "Binnenkort beschikbaar ...",
   "Bois": "Hout",
-  "Boutique": "Winkel",
   "Brûlable": "Brandbaar",
   "Butin": "Buit",
   "Bâtiments": "Gebouwen",
@@ -368,6 +367,7 @@
   "Occupant": "Bezetter",
   "Occupée": "Bezet",
   "Octobre": "Oktober",
+  "Offres": "Koopjes",
   "Offres spéciales": "Speciale aanbiedingen",
   "Ordre de la boutique": "Winkelvolgorde",
   "Ordre public": "Openbare orde",
@@ -815,6 +815,7 @@
     "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "unités": "eenheden",
+  "À découvrir": "Ontdekken",
   "Écart type des scores (variabilité)": "Score standaarddeviatie (variabiliteit)",
   "Événement courant": "Huidig event",
   "Événement de fidélité": "Loyaliteitsevent",

@@ -104,7 +104,6 @@
   "Bientôt attaquable (< 5min)": "قابل للهجوم قريباً (< 5 دقائق)",
   "Bientôt disponible": "متوفر قريباً ...",
   "Bois": "الخشب",
-  "Boutique": "إلى المتجر",
   "Brûlable": "قابل للاحتراق",
   "Butin": "الغنائم",
   "Bâtiments": "المباني",
@@ -368,6 +367,7 @@
   "Occupant": "المحتل",
   "Occupée": "محتلة",
   "Octobre": "أكتوبر",
+  "Offres": "Offers",
   "Offres spéciales": "عروض خاصة",
   "Ordre de la boutique": "ترتيب المتجر",
   "Ordre public": "النظام العام",
@@ -815,6 +815,7 @@
     "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "unités": "وحدات",
+  "À découvrir": "اكتشف",
   "Écart type des scores (variabilité)": "الانحراف المعياري للنقاط (التباين)",
   "Événement courant": "الحدث الحالي",
   "Événement de fidélité": "حدث الولاء",

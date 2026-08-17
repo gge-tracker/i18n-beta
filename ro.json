@@ -104,7 +104,6 @@
   "Bientôt attaquable (< 5min)": "Curând atacabil (< 5min)",
   "Bientôt disponible": "Disponibil curând...",
   "Bois": "Lemn",
-  "Boutique": "Spre magazin",
   "Brûlable": "Incendiabil",
   "Butin": "Pradă",
   "Bâtiments": "Clădiri",
@@ -368,6 +367,7 @@
   "Occupant": "Ocupant",
   "Occupée": "Ocupată",
   "Octobre": "Octombrie",
+  "Offres": "Oferte",
   "Offres spéciales": "Oferte speciale",
   "Ordre de la boutique": "Ordinea magazinului",
   "Ordre public": "Ordine publică",
@@ -815,6 +815,7 @@
     "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "unités": "unități",
+  "À découvrir": "De descoperit",
   "Écart type des scores (variabilité)": "Abatere standard a scorurilor (variabilitate)",
   "Événement courant": "Eveniment curent",
   "Événement de fidélité": "Eveniment Loialitate",
