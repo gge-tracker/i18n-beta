@@ -291,7 +291,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>true</featured>
+			<featured>false</featured>
 			<gge-server-name>Empire Four Kingdoms - United Kingdom 1</gge-server-name>
 			<name>E4K_GB1</name>
 		</server>
