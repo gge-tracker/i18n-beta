@@ -678,6 +678,7 @@
   "heures_h": "h",
   "home": {
     "alliance-rank": "#{{rank}} sur {{total}} en puissance",
+    "art-credit": "Illustrations du jeu © Goodgame Studios.",
     "browse-alliances": "Parcourir les alliances",
     "change": "Évolution",
     "event-best": "Record personnel",
@@ -688,6 +689,7 @@
     "events-history": "Tout mon historique d'événements",
     "events-title": "Événements de la semaine",
     "explore": "Explorer",
+    "fan-project": "Projet de fan non officiel",
     "first-visit": "Revenez plus tard : cette page montrera ce qui a changé depuis aujourd'hui.",
     "followed": "Suivis",
     "followed-alliances-empty": "Suivez une alliance depuis sa page pour la retrouver ici.",

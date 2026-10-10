@@ -678,6 +678,7 @@
   "heures_h": "ساعة",
   "home": {
     "alliance-rank": "#{{rank}} من {{total}} حسب القوة",
+    "art-credit": "رسومات اللعبة © Goodgame Studios.",
     "browse-alliances": "تصفح التحالفات",
     "change": "التغير",
     "event-best": "رقم قياسي شخصي",
@@ -688,6 +689,7 @@
     "events-history": "كل سجل أحداثي",
     "events-title": "أحداث هذا الأسبوع",
     "explore": "استكشف",
+    "fan-project": "مشروع معجبين غير رسمي",
     "first-visit": "عد لاحقًا: ستعرض هذه الصفحة ما تغيّر منذ اليوم.",
     "followed": "المتابَعون",
     "followed-alliances-empty": "تابع تحالفًا من صفحته ليظهر هنا.",

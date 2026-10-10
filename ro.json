@@ -678,6 +678,7 @@
   "heures_h": "o",
   "home": {
     "alliance-rank": "#{{rank}} din {{total}} după putere",
+    "art-credit": "Grafica jocului © Goodgame Studios.",
     "browse-alliances": "Răsfoiește alianțele",
     "change": "Evoluție",
     "event-best": "Record personal",
@@ -688,6 +689,7 @@
     "events-history": "Tot istoricul meu de evenimente",
     "events-title": "Evenimentele săptămânii",
     "explore": "Explorează",
+    "fan-project": "Proiect neoficial al fanilor",
     "first-visit": "Revino mai târziu: această pagină va arăta ce s-a schimbat de azi.",
     "followed": "Urmăriți",
     "followed-alliances-empty": "Urmărește o alianță de pe pagina ei pentru a o vedea aici.",

@@ -678,6 +678,7 @@
   "heures_h": "sa",
   "home": {
     "alliance-rank": "Güçte {{total}} içinde #{{rank}}",
+    "art-credit": "Oyun görselleri © Goodgame Studios.",
     "browse-alliances": "İttifaklara göz at",
     "change": "Değişim",
     "event-best": "Kişisel rekor",
@@ -688,6 +689,7 @@
     "events-history": "Tüm etkinlik geçmişim",
     "events-title": "Bu haftanın etkinlikleri",
     "explore": "Keşfet",
+    "fan-project": "Resmi olmayan hayran projesi",
     "first-visit": "Daha sonra tekrar gelin: bu sayfa bugünden bu yana nelerin değiştiğini gösterecek.",
     "followed": "Takip edilenler",
     "followed-alliances-empty": "Burada görmek için bir ittifakı sayfasından takip edin.",
